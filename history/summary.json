@@ -4,7 +4,7 @@
     "url": "https://www.beiqilai.com/favicon.ico",
     "icon": "https://www.beiqilai.com/favicon.ico",
     "slug": "beiqilai-get-ready-to-teach",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 135,
     "timeMonth": 135,
     "timeYear": 135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-28": 0
+    }
   }
 ]
