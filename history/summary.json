@@ -5,18 +5,19 @@
     "icon": "https://www.beiqilai.com/favicon.ico",
     "slug": "beiqilai-get-ready-to-teach",
     "status": "up",
-    "uptime": "85.67%",
+    "uptime": "85.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.36%",
+    "uptimeMonth": "21.08%",
     "uptimeYear": "90.80%",
     "time": 112,
-    "timeDay": 99,
-    "timeWeek": 99,
-    "timeMonth": 131,
-    "timeYear": 109,
+    "timeDay": 66,
+    "timeWeek": 91,
+    "timeMonth": 132,
+    "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-06-20": 66,
+      "2024-06-21": 66,
+      "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -47,8 +48,7 @@
       "2023-06-26": 1440,
       "2023-06-25": 1440,
       "2023-06-24": 1440,
-      "2023-06-23": 1440,
-      "2023-06-22": 1440
+      "2023-06-23": 1440
     }
   }
 ]
